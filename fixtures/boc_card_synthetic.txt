@@ -1,0 +1,21 @@
+BANK OF CHINA (HONG KONG)                         SYNTHETIC TEST STATEMENT
+Visa Platinum Card                                 Card No. 4000 1234 5678 9010
+Statement Date : 23/01/2027                        Payment Due Date : 17/02/2027
+
+Previous Balance                3,120.40
+Payment                         3,120.40 CR
+New Charges                     2,468.30
+Rebates & Refunds                  58.00 CR
+
+POST   TRANS  DESCRIPTION                                       AMOUNT (HKD)
+24/12  24/12  BALANCE B/F                                          3,120.40
+27/12  26/12  KPAY*CHAN KEE CAFE HONG KONG HK                        86.00
+28/12  27/12  OCTOPUS AUTO ADDING VALUE                             250.00
+02/01  02/01  PAYMENT THANK YOU                                    3,120.40 CR
+03/01  02/01  AMAZON.COM*AB12CD SEATTLE US                         210.00
+05/01  04/01  APPLE.COM/BILL CORK IE                                   8.00
+08/01  07/01  TAOBAO.COM HANGZHOU CN                                 412.30
+10/01  09/01  CATHAY PACIFIC AIRWAYS HONG KONG HK                  1,320.00
+12/01  12/01  CASHBACK REBATE                                         58.00 CR
+15/01  14/01  MYSTERY MERCHANT LTD KOWLOON HK                        182.00
+20/01  19/01  ODD CENTS                                                0.30 CR

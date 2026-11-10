@@ -1,0 +1,17 @@
+# Private data never goes in the repo
+data/
+private/
+*.pdf
+*.xlsx
+finance_data.json
+rules.yaml
+audit/
+.env
+
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.venv/
+.coverage
+htmlcov/
+dist/

@@ -1,0 +1,11 @@
+# Example only. Your real rules.yaml lives in FINANCE_DATA_DIR (outside the repo).
+- pattern: KPAY\*
+  category: Food
+- pattern: AMAZON|PAYPAL
+  category: Subscriptions
+- pattern: APPLE\.COM/BILL
+  category: Subscriptions
+- pattern: TAOBAO
+  category: Shopping
+- pattern: CASHBACK REBATE
+  category: Rebates & Refunds

@@ -35,8 +35,8 @@ Check: `23 passed, 5 skipped`, then `All checks passed!` and `24 files already f
 
 ```powershell
 git init
-git config user.name "ethanleung5219"
-git config user.email "100673054+ethan5219@users.noreply.github.com   "
+git config user.name "Ethan Cheong"
+git config user.email "<id>+<username>@users.noreply.github.com"
 git config user.email
 git config --global user.email
 ```

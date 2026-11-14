@@ -10,8 +10,8 @@ Tick each step when its check passes.
 - [x] Step 2: Set personal Git identity for this repo
 - [x] Step 3: First commit, push to GitHub, CI green
 - [x] Step 4: Protect main (ruleset)
-- [ ] Step 5: Private data folder and .env
-- [ ] Step 6: First PR with a green check (Task 0 done when this passes)
+- [x] Step 6: First PR with a green check (Task 0 done when this passes)
+- [x] Step 5: Private data folder and .env
 
 After Task 0: Task 1, check the BOC parser against 3 real statements, plus write CLAUDE.md.
 
@@ -35,8 +35,8 @@ Check: `23 passed, 5 skipped`, then `All checks passed!` and `24 files already f
 
 ```powershell
 git init
-git config user.name "Ethan Cheong"
-git config user.email "<id>+<username>@users.noreply.github.com"
+git config user.name "ethanleung5219"
+git config user.email "100673054+ethan5219@users.noreply.github.com   "
 git config user.email
 git config --global user.email
 ```
